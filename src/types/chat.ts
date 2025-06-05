@@ -5,8 +5,3 @@ export interface Message {
   timestamp: Date;
   isError?: boolean;
 }
-
-export interface ChatState {
-  messages: Message[];
-  isLoading: boolean;
-}
