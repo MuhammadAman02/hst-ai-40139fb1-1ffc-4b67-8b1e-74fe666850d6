@@ -2,5 +2,9 @@
   {
     "role": "user",
     "content": "The deployment failed with the following error from Fly.io:\n\n#8 1.648 npm error code EINVALIDPACKAGENAME\n#8 1.648 npm error Invalid package name \"HST AI engr-tagger\" of package \"HST AI engr-tagger@^1.0.19\": name can only contain URL-friendly characters.\n#8 1.652 npm notice\n\nPlease fix the issue."
+  },
+  {
+    "role": "user",
+    "content": "The deployment failed with the following error from Fly.io:\n\n#8 1.371 npm error code EINVALIDPACKAGENAME\n#8 1.371 npm error Invalid package name \"HST AI engr-tagger\" of package \"HST AI engr-tagger@^1.0.19\": name can only contain URL-friendly characters.\n#8 1.376 npm notice\n\nPlease fix the issue."
   }
 ]
