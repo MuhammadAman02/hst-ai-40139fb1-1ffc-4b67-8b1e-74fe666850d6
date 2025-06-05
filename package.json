@@ -62,7 +62,8 @@
     "vaul": "^0.9.3",
     "zod": "^3.23.8",
     "openai": "latest",
-    "express": "latest"
+    "express": "latest",
+    "cors": "latest"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
