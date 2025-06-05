@@ -63,7 +63,8 @@
     "zod": "^3.23.8",
     "openai": "latest",
     "express": "latest",
-    "cors": "latest"
+    "cors": "latest",
+    "@types/express": "latest"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
