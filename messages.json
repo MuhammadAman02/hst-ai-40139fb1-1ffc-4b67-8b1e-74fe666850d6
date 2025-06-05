@@ -6,5 +6,9 @@
   {
     "role": "user",
     "content": "The deployment failed with the following error from Fly.io:\n\n#8 1.371 npm error code EINVALIDPACKAGENAME\n#8 1.371 npm error Invalid package name \"HST AI engr-tagger\" of package \"HST AI engr-tagger@^1.0.19\": name can only contain URL-friendly characters.\n#8 1.376 npm notice\n\nPlease fix the issue."
+  },
+  {
+    "role": "user",
+    "content": "The deployment failed with the following error from Fly.io:\n\n#10 0.537 error during build:\n#10 0.537 Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'HST AI engr-tagger' imported from /app/vite.config.ts.timestamp-1749106799704-82369d68dfc45.mjs\n#10 0.537     at new NodeError (node:internal/errors:405:5)\n\nPlease fix the issue."
   }
 ]
